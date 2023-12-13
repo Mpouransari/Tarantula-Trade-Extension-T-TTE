@@ -24,6 +24,10 @@ Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 2. Install Browser Extension. 
     
     * Opera : https://addons.opera.com/en/extensions/details/tarantula-trade/
+      
+
+   |⚙️ For use T-TTE in the Opera,you need installation Opera-Beta in your Operation System , you can download last version from https://www.opera.com/browsers/opera/beta|
+   | -------------------------- |
 
     * Chorom : 
 
