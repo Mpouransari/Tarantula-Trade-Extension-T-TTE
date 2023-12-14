@@ -2,6 +2,8 @@
 
 Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 
+🎉 24 H test FREE Available now ....
+
 # What is T-TTE
 
   This Extension allows users to execute trades directly from Tradingview and receive an accurate order in MT5/MT4. You can change certain settings like allowed icons, risk factor and more ...
@@ -13,8 +15,10 @@ Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 # How it works?
 
 1. send your requests and receive Expert Advisor (EA MT5/MT4) in Metatrader terminal.
- 
+   
  - you can also ask your questions from the support department:
+
+ - Contact support to receive a FREE 24-hour test 👇🏻👇🏻👇🏻
    
 | [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_support_bot) |
 | -------------------------- |
@@ -77,7 +81,7 @@ Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 
 💯 We must point out that the support in all stages of the installation will be fully provided by us and you are not alone in any of the levels .
 
-⚠️ Unfortunately, we are not able to provide a test account for free, you can contact the support department to receive a 24-hour account.
+🎉 24 H test FREE 
 
 🔥 There is no need to create a TradingView paid account to receive this strategy / indicator. It can also be used on free and newly established accounts and has no prerequisites for use
 
