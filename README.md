@@ -4,6 +4,10 @@ Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 
 🎉 24 H test FREE Available now ....
 
+
+![download](https://github.com/Mpouransari/Tarantula-Trade-Extension-T-TTE/assets/85387547/90725f30-f760-4eee-8359-3a6e8f45d1a7)
+
+
 # What is T-TTE
 
   This Extension allows users to execute trades directly from Tradingview and receive an accurate order in MT5/MT4. You can change certain settings like allowed icons, risk factor and more ...
