@@ -91,4 +91,6 @@ Send Your Trade from Tradingview to Metatrader platform Easy to drink 🥂
 
 # License 📝
 
+MIT License
+
 &copy; 2024 Tarantula Trade All rights reserved.
