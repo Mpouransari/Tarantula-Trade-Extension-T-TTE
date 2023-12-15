@@ -1,6 +1,6 @@
 # 🕷🕸 Tarantula Trade Extension ( T-TTE ) 🕸🕷
 
-Send Your Positions from Tradingview to Metatrader platform Easy to drink 🥂
+Send Your Positions from Tradingview to Metatrader platform Easy as drink 🥂
 
 🎉 24 H test FREE Available now ....
 
@@ -54,6 +54,8 @@ Send Your Positions from Tradingview to Metatrader platform Easy to drink 🥂
 6 . Enjoy your Trade ... 💸
 
 # Video Tutorial 🎬 
+
+CLICK HERE FOR lEARNING T-TTE 👇🏻👇🏻👇🏻
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WpToT11C2kM/0.jpg)](https://www.youtube.com/watch?v=WpToT11C2kM)
 
