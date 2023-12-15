@@ -41,9 +41,15 @@ Send Your Positions from Tradingview to Metatrader platform Easy to drink 🥂
 
     * FireFox : coming soon
 
-3 . Send your Order from Tradingview to Metatrader.
+5 . Copy EA file to MetaTrader Platform 
 
-4 . Enjoy your Trade ... 💸
+  - File / Open Data folder / MQL5 OR MQL4 / Experts : ( Copy the contents of the Expert folder and paste here )
+
+  - File / Open Data folder / MQL5 OR MQL4 / Include : ( Copy the contents of the Include folder and paste here ) 
+
+4 . Send your Order from Tradingview to Metatrader.
+
+5 . Enjoy your Trade ... 💸
 
 # Information
 
