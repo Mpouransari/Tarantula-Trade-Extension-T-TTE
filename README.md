@@ -37,9 +37,9 @@ Send Your Positions from Tradingview to Metatrader platform Easy to drink 🥂
    |⚙️ For use T-TTE in the Opera,you need installation Opera-Beta in your Operation System , you can download last version from https://www.opera.com/browsers/opera/beta|
    | -------------------------- |
 
-    * Chorom : 
+    * Chorom : coming soon
 
-    * FireFox :
+    * FireFox : coming soon
 
 3 . Send your Order from Tradingview to Metatrader.
 
