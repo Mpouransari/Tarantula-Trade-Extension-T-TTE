@@ -53,6 +53,10 @@ Send Your Positions from Tradingview to Metatrader platform Easy to drink 🥂
 
 6 . Enjoy your Trade ... 💸
 
+# Video Tutorial 🎬 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WpToT11C2kM/0.jpg)](https://www.youtube.com/watch?v=WpToT11C2kM)
+
 # Information
 
 - UI Extension:
