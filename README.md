@@ -39,7 +39,7 @@ Send Your Positions from Tradingview to Metatrader platform Easy as drink 🥂
 
     * Chorom : coming soon
 
-    * FireFox : coming soon
+    * FireFox : https://addons.mozilla.org/en-US/firefox/addon/tarantula-trade/
 
 3 . Copy EA file to MetaTrader Platform 
 
