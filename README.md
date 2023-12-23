@@ -2,7 +2,7 @@
 
 Send Your Positions from Tradingview to Metatrader platform Easy as drink 🥂
 
-🎉 24 H test FREE Available now ....
+🎉 7 Days test FREE Available now ....
 
 
 ![download](https://github.com/Mpouransari/Tarantula-Trade-Extension-T-TTE/assets/85387547/90725f30-f760-4eee-8359-3a6e8f45d1a7)
@@ -22,9 +22,9 @@ Send Your Positions from Tradingview to Metatrader platform Easy as drink 🥂
    
  - you can also ask your questions from the support department:
 
- - Contact support to receive a FREE 24-hour test 👇🏻👇🏻👇🏻
+ - Join to Telegram BOT for receive a FREE 7-Days test 👇🏻👇🏻👇🏻
    
-| [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_support_bot) |
+| [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_trade_chBot) |
 | -------------------------- |
 
   ⚡️ You can join the subscription to the Extension (T-TTE) and then add it to your chart in MetaTrader Platform's (MT5/MT4) , (Contact us for information plans)
