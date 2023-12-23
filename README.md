@@ -24,7 +24,7 @@ Send Your Positions from Tradingview to Metatrader platform Easy as drink 🥂
 
  - Join to Telegram BOT for receive a FREE 7-Days test 👇🏻👇🏻👇🏻
    
-| [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_trade_chBot) |
+| [Tarantula Trade Telegram BOT](    https://t.me/Tarantula_trade_chBot) |
 | -------------------------- |
 
   ⚡️ You can join the subscription to the Extension (T-TTE) and then add it to your chart in MetaTrader Platform's (MT5/MT4) , (Contact us for information plans)
