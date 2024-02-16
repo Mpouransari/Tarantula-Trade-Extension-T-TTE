@@ -99,7 +99,7 @@ CLICK HERE FOR lEARNING T-TTE 👇🏻👇🏻👇🏻
 
 💯 We must point out that the support in all stages of the installation will be fully provided by us and you are not alone in any of the levels .
 
-🎉 24 H test FREE 
+🎉 7 Days  test FREE 
 
 🔥 There is no need to create a TradingView paid account to receive this strategy / indicator. It can also be used on free and newly established accounts and has no prerequisites for use
 
